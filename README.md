@@ -7,7 +7,7 @@
 ⚡ Fun fact: Patiya Developer 😂
 
 
-![Hey there, It's Code Diggers. We Are Web developer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 
 
 <!-- **code-diggers-369/code-diggers-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
