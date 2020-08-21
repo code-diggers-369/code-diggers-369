@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> It's Code Diggers, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> It's Code Diggers, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Gujarat, India</b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
