@@ -72,7 +72,8 @@
 ------------
 <h3>How To Reach Us</h3>
 
-Haresh Prajapati: email: hareshprajapati2205@gmail.com And Contact Number Is +91-8264857308
-Prashant Prajapati: email: parshu52@gmail.com And ontact Number Is +91-8866045093
-Mohit Mistry: email: mohitmistry1758@gmail.com And ontact Number Is +91-7600704349
+<p>Haresh Prajapati: email: <a href="mailto:hareshprajapati2205@gmail.com"> hareshprajapati2205@gmail.com </a> And Contact Number Is +91-8264857308</p>
+<p>Prashant Prajapati: email: <a href="mailto:parshu52@gmail.com">parshu52@gmail.com</a> And ontact Number Is +91-8866045093</p>
+<p>Mohit Mistry: email: <a href="mailto:mohitmistry1758@gmail.com">mohitmistry1758@gmail.com</a> And ontact Number Is +91-7600704349</p>
+
 ------------
