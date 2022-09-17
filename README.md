@@ -38,7 +38,7 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/code-diggers-369/movie-cafe" target="_blank"><b>Downloading Movie App In ReactJs</b></a></td>
+	    <td><a href="https://github.com/code-diggers-369/all-in-one-interview-questions" target="_blank"><b>All In One Interview Questions</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
@@ -52,7 +52,28 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-			<td><a href="https://github.com/code-diggers-369/covid19-india-update" target="_blank"><b>Corona Tracker In React For India</b></a></td>
+			<td><a href="https://github.com/code-diggers-369/sangit-a-musicapp" target="_blank"><b>Sangit A Music App In React Js</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+			<td><a href="https://github.com/code-diggers-369/music-react-native" target="_blank"><b>Spotify Clone In React Native</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+			<td><a href="https://github.com/code-diggers-369/instagram-clone-in-react-native" target="_blank"><b>Instagram Clone In React Native</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	   <tr>
+			<td><a href="https://github.com/code-diggers-369/wallart" target="_blank"><b>Wallart App In React Native</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
@@ -63,16 +84,14 @@
 
 
 <h3>Here you can find me.. </h3>
-<p><a href="https://github.com/code-diggers-369" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.instagram.com/code.diggers/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=orange" /></a>  <a href="https://www.linkedin.com/in/hareshprajapati369/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCcbZ7AmY35Kps985i5UIIKA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" /></a>
+<p><a href="https://mez.ink/hareshprajapati" target="_blank"><img alt="Github" src="https://img.shields.io/badge/All%20About%20Me-%2312100E.svg?&style=for-the-badge&logo=Linux&logoColor=white&color=darkgreen" /></a> <a href="https://github.com/code-diggers-369" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.instagram.com/code.diggers/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=orange" /></a>  <a href="https://www.linkedin.com/in/hareshprajapati369/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCcbZ7AmY35Kps985i5UIIKA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" /></a>
 </p>
 
-<h3>Support Us</h3>
-<a href="https://www.buymeacoffee.com/hareshprajapati"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hareshprajapati&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ------------
 <h3>How To Reach Us</h3>
 
-<p>Haresh Prajapati: email: <a href="mailto:hareshprajapati2205@gmail.com"> hareshprajapati2205@gmail.com </a> </p>
+<p>Hareshkumar Prajapati: email: <a href="mailto:hareshprajapati2205@gmail.com"> hareshprajapati2205@gmail.com </a> </p>
 <p>Prashant Prajapati: email: <a href="mailto:parshu52@gmail.com">parshu52@gmail.com</a> </p>
 <p>Mohit Mistry: email: <a href="mailto:mohitmistry1758@gmail.com">mohitmistry1758@gmail.com</a></p>
 
